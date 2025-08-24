@@ -4,4 +4,3 @@ app_name = 'main'
 
 urlpatterns = [
 path('', index_view,name='index'),
-]
